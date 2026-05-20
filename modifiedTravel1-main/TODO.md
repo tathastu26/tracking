@@ -1,0 +1,5 @@
+- [ ] Replace dashboard content with a basic dark-theme CSS “map” (no external APIs / no packages)
+- [ ] Remove old dashboard sections (alerts, operational cards, status panels)
+- [ ] Make sidebar collapsible on both desktop and mobile
+- [ ] Update layout spacing to account for collapsed sidebar
+- [ ] Sanity-check imports and TypeScript build (no commands executed)
